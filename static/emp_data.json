@@ -1,0 +1,192 @@
+{ "employees":[
+	{
+	  "name":"Raj",
+	   "age": 31,
+	   "class":"JQuery, AngularJS",
+	   "address":"1234 Stevens street, San Jose, CA",
+	   "job":"Technical",
+	   "department":"IT"
+	}
+	,
+	{
+	  "name":"John Smith",
+	   "age": 22,
+	   "class":"Java, SQL, AngularJS",
+	   "address":"4444 Fremont street, Fremont, CA",
+	   "job":"Professional",
+	   "department":"Marketing"
+	}
+	,
+	{
+	  "name":"Mike",
+	   "age": 22,
+	   "class":"C++",
+	   "address":"22 ABC street, Santa Clara, CA",
+	   "job":"Business Support",
+	   "department":"Sales"
+	}
+	,
+	{
+	  "name":"Daisy",
+	   "age": 26,
+	   "class":"JAVA, SQL, AngularJS",
+	   "address":"21212 london street, San Jose, CA",
+	   "job":"Technical",
+	   "department":"Administration"
+	}
+	,
+	{
+	  "name":"Mr Kumar",
+	   "age": 23,
+	   "class":"JAVA, SQL",
+	   "address":"21212 london street, San Jose, CA",
+	   "job":"Professional",
+	   "department":"IT"
+	}
+		,
+	{
+	  "name":"Mike Smith",
+	   "age": 28,
+	   "class":"C++, AngularJS, HTML5, CSS3",
+	   "address":"22 will wood street, Santa Clara, CA",
+	   "job":"Commercial",
+	   "department":"Marketing"
+	}
+	,
+	{
+	  "name":"Shiv Kumar",
+	   "age": 26,
+	   "class":"HTML5, CSS3",
+	   "address":"21212 Woodland lane, San Jose, CA",
+	   "job":"Technical",
+	   "department":"R&D"
+	}
+	,
+	{
+	  "name":"XYZ",
+	   "age": 26,
+	   "class":"JAVA, SQL,HTML5, CSS3",
+	   "address":"111 wood street, San Jose, CA",
+	   "job":"Commercial",
+	   "department":"Sales"
+	}
+		,
+	{
+	  "name":"Stella Smith",
+	   "age": 28,
+	   "class":"C++, AngularJS, HTML5, CSS3",
+	   "address":"22 will wood street, Santa Clara, CA",
+	   "job":"Commercial",
+	   "department":"IT"
+	}
+	,
+	{
+	  "name":"Alex Jones",
+	   "age": 26,
+	   "class":"HTML5, CSS3",
+	   "address":"21212 Woodland lane, San Jose, CA",
+	   "job":"Technical",
+	   "department":"R&D"
+	}
+	,
+	{
+	  "name":"Betty K.",
+	   "age": 26,
+	   "class":"JAVA, SQL,HTML5, CSS3",
+	   "address":"111 wood street, San Jose, CA",
+	   "job":"Commercial",
+	   "department":"Sales"
+	}
+	,
+	{
+	  "name":"Justin S.",
+	   "age": 22,
+	   "class":"Java, SQL, AngularJS",
+	   "address":"4444 Fremont street, Fremont, CA",
+	   "job":"Professional",
+	   "department":"Marketing"
+	}
+	,
+	{
+	  "name":"Michael T.",
+	   "age": 22,
+	   "class":"C++",
+	   "address":"22 ABC street, Santa Clara, CA",
+	   "job":"Business Support",
+	   "department":"Sales"
+	}
+	,
+	{
+	  "name":"Betty",
+	   "age": 26,
+	   "class":"JAVA, SQL, AngularJS",
+	   "address":"21212 london street, San Jose, CA",
+	   "job":"Technical",
+	   "department":"Administration"
+	}
+	,
+	{
+	  "name":"Mr Khanna",
+	   "age": 23,
+	   "class":"JAVA, SQL",
+	   "address":"21212 london street, San Jose, CA",
+	   "job":"Professional",
+	   "department":"IT"
+	}
+		,
+	{
+	  "name":"Kelly",
+	   "age": 28,
+	   "class":"C++, AngularJS, HTML5, CSS3",
+	   "address":"22 will wood street, Santa Clara, CA",
+	   "job":"Commercial",
+	   "department":"Marketing"
+	}
+	,
+	{
+	  "name":"Shiva",
+	   "age": 26,
+	   "class":"HTML5, CSS3",
+	   "address":"21212 Woodland lane, San Jose, CA",
+	   "job":"Technical",
+	   "department":"R&D"
+	}
+	,
+	{
+	  "name":"XYZAB",
+	   "age": 26,
+	   "class":"JAVA, SQL,HTML5, CSS3",
+	   "address":"111 wood street, San Jose, CA",
+	   "job":"Commercial",
+	   "department":"Sales"
+	}
+		,
+	{
+	  "name":"Simon Brown",
+	   "age": 28,
+	   "class":"C++, AngularJS, HTML5, CSS3",
+	   "address":"22 will wood street, Santa Clara, CA",
+	   "job":"Commercial",
+	   "department":"IT"
+	}
+	,
+	{
+	  "name":"Ashley",
+	   "age": 26,
+	   "class":"HTML5, CSS3",
+	   "address":"21212 Woodland lane, San Jose, CA",
+	   "job":"Technical",
+	   "department":"HR"
+	}
+	,
+	{
+	  "name":"Veronica",
+	   "age": 26,
+	   "class":"JAVA, SQL,HTML5, CSS3",
+	   "address":"111 wood street, San Jose, CA",
+	   "job":"Commercial",
+	   "department":"Finance"
+	}
+	
+]
+}

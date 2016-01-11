@@ -1,0 +1,74 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'C:\\Program Files\\nodejs\\\\node.exe',
+1 verbose cli   'C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js',
+1 verbose cli   'install',
+1 verbose cli   'tc-angular-chartjs' ]
+2 info using npm@1.4.23
+3 info using node@v0.10.31
+4 verbose node symlink C:\Program Files\nodejs\\node.exe
+5 warn package.json app_server@ No description
+6 warn package.json app_server@ No repository field.
+7 warn package.json app_server@ No README data
+8 verbose readDependencies using package.json deps
+9 verbose cache add [ 'tc-angular-chartjs', null ]
+10 verbose cache add name=undefined spec="tc-angular-chartjs" args=["tc-angular-chartjs",null]
+11 verbose parsed url { protocol: null,
+11 verbose parsed url   slashes: null,
+11 verbose parsed url   auth: null,
+11 verbose parsed url   host: null,
+11 verbose parsed url   port: null,
+11 verbose parsed url   hostname: null,
+11 verbose parsed url   hash: null,
+11 verbose parsed url   search: null,
+11 verbose parsed url   query: null,
+11 verbose parsed url   pathname: 'tc-angular-chartjs',
+11 verbose parsed url   path: 'tc-angular-chartjs',
+11 verbose parsed url   href: 'tc-angular-chartjs' }
+12 silly lockFile 334e06ea-tc-angular-chartjs tc-angular-chartjs
+13 verbose lock tc-angular-chartjs C:\Users\rrajput\AppData\Roaming\npm-cache\334e06ea-tc-angular-chartjs.lock
+14 silly lockFile 334e06ea-tc-angular-chartjs tc-angular-chartjs
+15 silly lockFile 334e06ea-tc-angular-chartjs tc-angular-chartjs
+16 verbose addNamed [ 'tc-angular-chartjs', '' ]
+17 verbose addNamed [ null, '*' ]
+18 silly lockFile d9c6c283-tc-angular-chartjs tc-angular-chartjs@
+19 verbose lock tc-angular-chartjs@ C:\Users\rrajput\AppData\Roaming\npm-cache\d9c6c283-tc-angular-chartjs.lock
+20 silly addNameRange { name: 'tc-angular-chartjs', range: '*', hasData: false }
+21 verbose request where is /tc-angular-chartjs
+22 verbose request registry https://registry.npmjs.org/
+23 verbose request id e30c7c011a85f2a7
+24 verbose url raw /tc-angular-chartjs
+25 verbose url resolving [ 'https://registry.npmjs.org/', './tc-angular-chartjs' ]
+26 verbose url resolved https://registry.npmjs.org/tc-angular-chartjs
+27 verbose request where is https://registry.npmjs.org/tc-angular-chartjs
+28 info trying registry request attempt 1 at 16:44:55
+29 http GET https://registry.npmjs.org/tc-angular-chartjs
+30 info retry will retry, error on last attempt: Error: connect ECONNREFUSED
+31 info trying registry request attempt 2 at 16:45:06
+32 http GET https://registry.npmjs.org/tc-angular-chartjs
+33 info retry will retry, error on last attempt: Error: connect ECONNREFUSED
+34 info trying registry request attempt 3 at 16:46:07
+35 http GET https://registry.npmjs.org/tc-angular-chartjs
+36 silly lockFile d9c6c283-tc-angular-chartjs tc-angular-chartjs@
+37 silly lockFile d9c6c283-tc-angular-chartjs tc-angular-chartjs@
+38 error Error: connect ECONNREFUSED
+38 error     at errnoException (net.js:904:11)
+38 error     at Object.afterConnect [as oncomplete] (net.js:895:19)
+38 error  { [Error: connect ECONNREFUSED]
+38 error   code: 'ECONNREFUSED',
+38 error   errno: 'ECONNREFUSED',
+38 error   syscall: 'connect',
+38 error   parent: 'app_server' }
+39 error If you are behind a proxy, please make sure that the
+39 error 'proxy' config is set properly.  See: 'npm help config'
+40 error System Windows_NT 6.1.7601
+41 error command "C:\\Program Files\\nodejs\\\\node.exe" "C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js" "install" "tc-angular-chartjs"
+42 error cwd C:\app_server
+43 error node -v v0.10.31
+44 error npm -v 1.4.23
+45 error syscall connect
+46 error code ECONNREFUSED
+47 error errno ECONNREFUSED
+48 error stack Error: connect ECONNREFUSED
+48 error stack     at errnoException (net.js:904:11)
+48 error stack     at Object.afterConnect [as oncomplete] (net.js:895:19)
+49 verbose exit [ 1, true ]
